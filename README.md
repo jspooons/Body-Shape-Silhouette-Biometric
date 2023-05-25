@@ -1,6 +1,11 @@
 # Body-Shape-Silhouette-Biometric
 This repository was in partial fulfillment of my MSc Degree. The jupyter notebook contains code that converts an RGB image into a binary image. This binary image contains then contains a silhouette which is used to extract statistical features used to identify the person.
 
+Summary of the pre-processing pipeline for the data and how the biometric model works:
+
+<img width="632" alt="image" src="https://github.com/jspooons/Body-Shape-Silhouette-Biometric/assets/25199093/d9ac4ec7-8965-4211-9ccd-1f4db227b28c">
+
+
 Take an image, for example
 
 ![test_colour](https://github.com/jspooons/Body-Shape-Silhouette-Biometric/assets/25199093/2e501ea6-05b9-4a0d-9a47-92c7ae6e9cbd)
